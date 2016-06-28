@@ -20,3 +20,8 @@
 ```objc
 [CLStatusBarHUD hide];
 ```
+
+## 顯示普通訊息
+```objc
+[CLStatusBarHUD showMessage:@"没有什麼事!!!!"];
+```
